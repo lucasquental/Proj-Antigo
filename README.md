@@ -40,3 +40,6 @@
 - Informações sobre clientes;
 - Inventário de cada franquia;
 - Informações sobre o pedido.
+
+## Diagrama de casos de uso
+![](https://github.com/lucasquental/Proj-Software/blob/master/casos%20de%20uso.jpg)
